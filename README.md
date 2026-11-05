@@ -11,7 +11,7 @@ This repository contains certificates and records of my academic achievements, t
 - **Date:** March 2021
 - **Credential:** Certificate of Participation
 
-[View Certificate](images/android-development-march-2021.png)
+[View Certificate](https://github.com/Ismailknina/certificates/tree/main/images)
 
 ---
 
